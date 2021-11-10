@@ -32,6 +32,8 @@
 
 -  &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+-  &nbsp;
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
   
 <h4> 🕸 &nbsp;Deployment</h4>
 
