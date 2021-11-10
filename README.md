@@ -8,10 +8,10 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Improving my Graphic Design skill as a hobby.
 
-<h4> 🛠 &nbsp;Front End</h4>
+<h4> 🖥️ &nbsp; Front End</h4>
 
   
-- 🌐 &nbsp;
+-  &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -21,37 +21,37 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 
 
-<h4> 🛠 &nbsp;Back End</h4>
+<h4> 🧩 &nbsp;Back End</h4>
 
-- 🤖 &nbsp;
+-  &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   
-<h4> 🛠 &nbsp;Database</h4>
+<h4> 🛢 &nbsp;Database</h4>
 
-- 🛢 &nbsp;
+-  &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
-<h4> 🛠 &nbsp;Deployment</h4>
+<h4> 🕸 &nbsp;Deployment</h4>
 
-- 🕸 &nbsp;
+-  &nbsp;
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
   
-<h4> 🛠 &nbsp;Repository</h4>
+<h4> 🤖 &nbsp;Repository</h4>
 
-- ⚙️ &nbsp;
+-  &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-<h4> 🛠 &nbsp;IDE</h4>
+<h4> ⚙️ &nbsp;IDE</h4>
 
-- 🔧 &nbsp;
+-  &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
   
-<h4> 🛠 &nbsp;Design</h4>
+<h4> 📐 &nbsp;Design</h4>
 
-- 🖥 &nbsp;
+-  &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   
