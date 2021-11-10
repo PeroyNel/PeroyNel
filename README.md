@@ -2,20 +2,23 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Self taught.
+- 🤔 &nbsp; Currently exploring technologies such as React, Node.js, Express and MongoDB.
+- 🎓 &nbsp; Self taught and always learning by seeking out new challenges.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
+- ✍️ &nbsp; Pursuing Graphic Design as a skill in my free time.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Front End</h3>
+
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Tailwind](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -25,9 +28,25 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  
   
 
 <br/>
+<h3> 🛠 &nbsp;Back End</h3>
+
+- 🤖 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  
+<h3> 🛠 &nbsp;Deployment</h3>
+
+- 🕸 &nbsp;
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+
+  
+  
 
 <a href="https://github.com/PeroyNel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeroyNel&theme=buefy&show_icons=true" />
