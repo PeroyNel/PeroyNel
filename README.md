@@ -27,6 +27,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=Axios)
   
 <h4> 🛢 &nbsp;Database</h4>
 
