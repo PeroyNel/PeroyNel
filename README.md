@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![Material-ui](https://img.shields.io/badge/-Material-ui-333333?style=flat&logo=sass)
 
 
 <h4> 🧩 &nbsp;Back End</h4>
