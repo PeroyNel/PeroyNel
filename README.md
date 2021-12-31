@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Self Taught and always learning by seeking out new challenges.
 - 💼 &nbsp; Working towards Full Time employment as a Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Improving my Graphic Design skill as a hobby.
+- ✍️ &nbsp; Improving my Cyber Security skills as a hobby.
 
 <h4> 🖥️ &nbsp; Front End</h4>
 
