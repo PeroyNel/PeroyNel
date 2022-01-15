@@ -19,7 +19,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
-  ![Material-ui](https://img.shields.io/badge/-Materialui-333333?style=flat&logo=Materialui)
+  
   
 
 
@@ -35,8 +35,7 @@
 
 -  &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
--  &nbsp;
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+
   
 <h4> 🕸 &nbsp;Deployment</h4>
 
