@@ -2,7 +2,7 @@
 
 <h4> 👨🏻‍💻 &nbsp;About Me </h4>
 
-- 🤔 &nbsp; Exploring technologies such as React, Node.js, Express and MongoDB.
+- 🤔 &nbsp; Exploring technologies such as HTML, CSS, Javascript, React, Node.js, Express and MongoDB.
 - 🎓 &nbsp; Self Taught and always learning by seeking out new challenges.
 - 💼 &nbsp; Working towards Full Time employment as a Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
