@@ -3,10 +3,10 @@
 <h4> 👨🏻‍💻 &nbsp;About Me </h4>
 
 - 🤔 &nbsp; Exploring technologies such as HTML, CSS, Javascript, React, Node.js, Express and MongoDB.
-- 🎓 &nbsp; Self Taught and always learning by seeking out new challenges.
-- 💼 &nbsp; Working towards Full Time employment as a Developer.
+- 🎓 &nbsp; Always learning by seeking out new challenges.
+- 💼 &nbsp; Working towards being a Full Stack Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Improving my Cyber Security skills as a hobby.
+- ✍️ &nbsp; Improving my Cyber Security and Design skills as a hobby.
 
 <h4> 🖥️ &nbsp; Front End</h4>
 
