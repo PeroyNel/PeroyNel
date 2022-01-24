@@ -1,4 +1,4 @@
-<h3> Hi there! I'm Peroy.</h3>
+<h3> Hi! I'm Peroy.</h3>
 
 <h4> 👨🏻‍💻 &nbsp;About Me </h4>
 
