@@ -83,5 +83,3 @@
 <a href="https://www.instagram.com/peroynel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-peroynel-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:peroynel@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-peroynel@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
