@@ -20,6 +20,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=tailwindcss&logoColor=1572B6)
+  ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
   
   
 
