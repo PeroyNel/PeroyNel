@@ -70,7 +70,7 @@
 
   
 
-![PeroyNel's GitHub stats](https://github-readme-stats-ivory-eight-42.vercel.app/api?username=PeroyNel&show_icons=true&theme=transparent&include_all_commits=true)
+![PeroyNel's GitHub stats](https://github-readme-stats-ivory-eight-42.vercel.app/api?username=PeroyNel&show_icons=true&theme=transparent&include_all_commits=false)
 [![Top Langs](https://github-readme-stats-ivory-eight-42.vercel.app/api/top-langs/?username=PeroyNel&layout=donut)]
 
 <br/>
