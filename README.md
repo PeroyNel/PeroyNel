@@ -71,7 +71,7 @@
   
   
 ![PeroyNel's GitHub stats](https://github-readme-stats-ivory-eight-42.vercel.app/api?username=PeroyNel&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats-ivory-eight-42.vercel.app/api/top-langs/?username=PeroyNel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ivory-eight-42.vercel.app/api/top-langs/?username=PeroyNel&layout=donut)]
 
 <br/>
 
