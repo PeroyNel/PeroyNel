@@ -71,11 +71,7 @@
   
   
 ![PeroyNel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeroyNel&show_icons=true&theme=transparent)
-<a href="https://github.com/PeroyNel">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeroyNel&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeroyNel&theme=buefy&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeroyNel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
